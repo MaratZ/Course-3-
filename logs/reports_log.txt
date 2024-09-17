@@ -1,0 +1,1 @@
+my_function error: 'function' object is not subscriptable. Input:(<function read_excel at 0x00000121F509CE00>, 'Транспорт'), {}
